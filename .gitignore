@@ -148,3 +148,7 @@ junit.xml
 
 # intellij
 .idea/
+tests/resources/vocadito_10_basic_pitch.wav
+tests/resources/vocadito_10_basic_pitch.npz
+tests/resources/vocadito_10_basic_pitch.mid
+tests/resources/vocadito_10_basic_pitch.csv
